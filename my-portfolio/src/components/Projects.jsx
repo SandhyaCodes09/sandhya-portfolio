@@ -7,7 +7,7 @@ import {
 
 const projects = [
   {
-    title: "MERN Job Portal",
+    title: "TalentBridge - Recruitment Platform  ",
     category: "Full Stack Web Application",
     description:
       "A full-stack job portal where users can explore jobs, search by category and location, view job details and manage job-related activities through role-based access.",
