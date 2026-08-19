@@ -18,7 +18,7 @@ const projects = [
       "MongoDB",
       "Tailwind CSS",
     ],
-    image: "/projects/lms.png",
+    image: "/projects/home2.png",
     github: "https://github.com/SandhyaCodes09/mern-job-portal",
     live: "https://mern-job-portal-henna.vercel.app/",
     featured: true,
