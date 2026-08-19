@@ -37,8 +37,8 @@ const projects = [
       "Tailwind CSS",
     ],
     image: "/projects/workflow.png",
-    github: "https://github.com/SandhyaCodes09/mern-job-portal",
-    live: "https://mern-job-portal-henna.vercel.app/",
+    github: "https://github.com/SandhyaCodes09/ai-medical-report-analyzer",
+    live: "https://ai-medical-report-analyzer-mauve.vercel.app/patient/dashboard",
     featured: false,
   },
 
