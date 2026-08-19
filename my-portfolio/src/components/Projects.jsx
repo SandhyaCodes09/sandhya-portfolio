@@ -25,15 +25,16 @@ const projects = [
   },
 
   {
-    title: "Project Approval Workflow System",
-    category: "Web Application",
+    title: "AI Powered Medical Report Analysis and Health Monitoring System",
+    category: "Full Stack Web Application",
     description:
-      "A workflow-based application designed to manage project submissions, approvals and different user roles through a structured process.",
+      "A comprehensive healthcare platform that enables patients to upload medical reports for automated AI parameter analysis, tracking abnormal values, managing document status, and viewing personalized health recommendations.",
     technologies: [
-      "Laravel",
-      "PHP",
-      "MySQL",
-      "Bootstrap",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS",
     ],
     image: "/projects/workflow.png",
     github: "https://github.com/SandhyaCodes09/mern-job-portal",
