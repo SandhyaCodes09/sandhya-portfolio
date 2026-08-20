@@ -2,14 +2,14 @@ import { motion } from "framer-motion";
 import { FiBookOpen, FiAward } from "react-icons/fi";
 
 const education = [
-  {
-    degree: "B.Tech — Computer Science & Engineering",
-    institute: "AKTU / Affiliated College",
-    duration: "2023 — 2026",
-    description:
-      "Pursuing Bachelor of Technology in Computer Science & Engineering with a focus on software development, web technologies and problem solving.",
-    icon: <FiBookOpen />,
-  },
+{
+  degree: "B.Tech — Computer Science & Engineering",
+  institute: "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+  duration: "2023 — 2026",
+  description:
+    "Completed Bachelor of Technology in Computer Science & Engineering with a focus on software development, web technologies and problem solving.",
+  icon: <FiBookOpen />,
+},
   {
     degree: "Diploma — Information Technology",
     institute: "Diploma in Information Technology",
