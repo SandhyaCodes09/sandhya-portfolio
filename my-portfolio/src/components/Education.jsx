@@ -12,7 +12,7 @@ const education = [
 },
   {
     degree: "Diploma — Information Technology",
-    institute: "Diploma in Information Technology",
+    institute: "Government Polytechnic College, Lucknow",
     duration: "Completed — 2023",
     description:
       "Completed diploma in Information Technology and developed a strong foundation in programming, databases and web development.",
